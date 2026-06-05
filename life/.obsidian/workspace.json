@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Math.md",
+                "file": "Games.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mental Math"
+              "title": "Games"
             }
           },
           {
@@ -252,11 +252,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "47e513d41bb14e65",
+  "active": "f76a62390acaa95b",
   "lastOpenFiles": [
-    "Games.md",
     "Mental Math.md",
     "Probability.md",
+    "Games.md",
     "Combinatorics",
     "create a link.md",
     "Welcome.md",
