@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f967c3e61c1d174d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Probability"
-            }
-          },
-          {
             "id": "9f826cfc31d2a3a8",
             "type": "leaf",
             "state": {
@@ -56,30 +32,6 @@
             }
           },
           {
-            "id": "f76a62390acaa95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Probability"
-            }
-          },
-          {
             "id": "1f9a554c13adacc1",
             "type": "leaf",
             "state": {
@@ -89,8 +41,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,11 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f76a62390acaa95b",
+  "active": "9f826cfc31d2a3a8",
   "lastOpenFiles": [
     "Games.md",
-    "Mental Math.md",
     "Probability.md",
+    "Mental Math.md",
     "Combinatorics",
     "create a link.md",
     "Welcome.md",
