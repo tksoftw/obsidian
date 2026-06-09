@@ -16,3 +16,15 @@ Meeting your friend
 Poker - Four of a kind (p=0.000240, 1 in 4165 hands)
 Poker - Full house (p=0.00144, 1 in 694 hands, 6x more likely than quads)
 Poker - Two pair (p=0.0475, 1 in 21 hands)
+6.8
+5 Descending Cards
+Biased Coin #1
+Biased Coin #2
+Biased Coin #3
+Biased Coin #4
+Biased Coin #5
+Biking in the wind
+Croissant or Muffin
+Dice Sum Game
+Empty Boxes
+Divisible Throws
