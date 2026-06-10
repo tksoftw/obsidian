@@ -7,3 +7,5 @@ https://archmadness.netlify.app
 market making
 6.7
 brush up on blackjack optimal strategy + card counting
+6.9
+practiced more market making
