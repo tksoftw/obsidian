@@ -9,3 +9,5 @@ market making
 brush up on blackjack optimal strategy + card counting
 6.9
 practiced more market making
+9.10
+watched nba finals and bet on spacex stock price

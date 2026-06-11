@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games.md",
+                "file": "Probability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Games"
+              "title": "Probability"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "9f826cfc31d2a3a8",
   "lastOpenFiles": [
-    "Probability.md",
     "Games.md",
+    "Probability.md",
     "Mental Math.md",
     "Combinatorics",
     "create a link.md",
