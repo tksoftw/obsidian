@@ -35,3 +35,7 @@ Calf Kicks
 Algorithms
 Rolling six
 First to heads
+6.12
+90 cents please
+Coin race #1
+Coin race #2
