@@ -28,3 +28,10 @@ Croissant or Muffin
 Dice Sum Game
 Empty Boxes
 Divisible Throws
+6.11
+Drunk student #1 (p = i/N)
+Drunk student #2  (E = i(N-1))
+Calf Kicks
+Algorithms
+Rolling six
+First to heads
