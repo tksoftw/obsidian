@@ -30,16 +30,6 @@
               "icon": "lucide-file",
               "title": "Probability"
             }
-          },
-          {
-            "id": "1f9a554c13adacc1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
