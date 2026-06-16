@@ -44,3 +44,6 @@ Coin Series #1
 Coin Series #2
 6.14
 Coin toss #1
+6.15
+Coin toss #2
+Coins and Dice
