@@ -47,3 +47,5 @@ Coin toss #1
 6.15
 Coin toss #2
 Coins and Dice
+6.16
+Dice vs Coins
