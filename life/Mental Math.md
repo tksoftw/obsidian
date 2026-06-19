@@ -4,3 +4,5 @@ Cubes up to 10
 Practiced two-digit multiplication
 6.17
 practiced zetamac. scored 39 on default settings.
+6.18
+practiced more mental math
