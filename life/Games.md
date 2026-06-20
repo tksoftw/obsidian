@@ -11,3 +11,5 @@ brush up on blackjack optimal strategy + card counting
 practiced more market making
 6.10
 watched nba finals and bet on spacex stock price
+6.19
+learned a bit about poker
