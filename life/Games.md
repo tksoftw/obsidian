@@ -15,3 +15,5 @@ watched nba finals and bet on spacex stock price
 learned a bit about poker
 6.20
 hackathon + clash royale tournament: placed 2nd /45
+6.21
+hackathon pt. 2 + sharpe practice
