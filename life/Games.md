@@ -13,3 +13,5 @@ practiced more market making
 watched nba finals and bet on spacex stock price
 6.19
 learned a bit about poker
+6.20
+hackathon + clash royale tournament: placed 2nd /45
