@@ -19,3 +19,5 @@ hackathon + clash royale tournament: placed 2nd /45
 hackathon pt. 2 + sharpe practice
 6.22
 mental math practice
+6.23
+mental math + poker studying
