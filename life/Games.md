@@ -21,3 +21,5 @@ hackathon pt. 2 + sharpe practice
 mental math practice
 6.23
 mental math + poker studying
+6.24
+poker practice
