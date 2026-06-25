@@ -23,3 +23,5 @@ mental math practice
 mental math + poker studying
 6.24
 poker practice
+6.25
+more mental math
