@@ -25,3 +25,5 @@ mental math + poker studying
 poker practice
 6.25
 more mental math
+6.26
+mental math + practiced card counting
