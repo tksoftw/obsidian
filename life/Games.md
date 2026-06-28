@@ -29,3 +29,5 @@ more mental math
 mental math + practiced card counting
 6.27
 more poker studying
+6.28
+poker studying + watched poker pros
