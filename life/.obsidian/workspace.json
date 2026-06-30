@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Games"
             }
-          },
-          {
-            "id": "5c35cc4757cbdafa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neetcode.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Neetcode"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +218,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c35cc4757cbdafa",
+  "active": "35ae84a190a79513",
   "lastOpenFiles": [
-    "Games.md",
-    "Neetcode.md",
     "Mental Math.md",
+    "Games.md",
     "Neetcode.md",
     "Probability.md",
     "Combinatorics",

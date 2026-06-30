@@ -14,20 +14,22 @@ watched nba finals and bet on spacex stock price
 6.19
 learned a bit about poker
 6.20
-hackathon + clash royale tournament: placed 2nd /45
+hackathon + clash royale tournament: placed 2nd /45 + research
 6.21
-hackathon pt. 2 + sharpe practice
+hackathon pt. 2 + sharpe practice + research
 6.22
-mental math practice
+mental math practice + research
 6.23
-mental math + poker studying
+mental math + poker studying + research
 6.24
-poker practice
+poker practice + research
 6.25
-more mental math
+more mental math + research
 6.26
-mental math + practiced card counting
+mental math + practiced card counting + research
 6.27
-more poker studying
+more poker studying + research
 6.28
-poker studying + watched poker pros
+poker studying + watched poker pros + research
+6.30
+research
