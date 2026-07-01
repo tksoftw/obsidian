@@ -33,3 +33,5 @@ more poker studying + research
 poker studying + watched poker pros + research
 6.30
 research
+7.1
+research (training!)
