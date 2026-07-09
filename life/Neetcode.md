@@ -6,3 +6,11 @@ Greedy:
 Two pointer:
 	Valid Palindrome
 	Three Sum
+	Container with most water (7.8)
+7.8
+Arrays and Hashing:
+	Two Sum 
+	Longest Consecutive Sequence
+Sliding Window:
+	Best time to buy and sell stock
+	
