@@ -49,3 +49,5 @@ Coin toss #2
 Coins and Dice
 6.16
 Dice vs Coins
+7.14
+Rig the Bags
