@@ -51,3 +51,5 @@ Coins and Dice
 Dice vs Coins
 7.14
 Rig the Bags
+7.15
+Bullseye bet

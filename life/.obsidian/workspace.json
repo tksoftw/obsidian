@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability.md",
+                "file": "Neetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Probability"
+              "title": "Neetcode"
             }
           }
         ]
@@ -195,9 +195,9 @@
   },
   "active": "9f826cfc31d2a3a8",
   "lastOpenFiles": [
+    "Probability.md",
     "Neetcode.md",
     "Games.md",
-    "Probability.md",
     "Mental Math.md",
     "Combinatorics",
     "create a link.md",
