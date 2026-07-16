@@ -16,3 +16,5 @@ Arrays and Hashing:
 	Valid Sudoku (7.15)
 Sliding Window:
 	Best time to buy and sell stock
+Stack:
+	Valid Parentheses

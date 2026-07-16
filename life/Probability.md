@@ -53,3 +53,6 @@ Dice vs Coins
 Rig the Bags
 7.15
 Bullseye bet
+7.16
+Flip 100 Coins
+Dice With Same Numbers
